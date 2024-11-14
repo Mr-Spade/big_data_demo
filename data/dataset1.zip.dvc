@@ -1,0 +1,12 @@
+md5: f61f1a201e64ad6550a4d867aaa24bbe
+frozen: true
+deps:
+- checksum: '100360977128997044636155015580862499546'
+  size: 298
+  hash: md5
+  path: https://cloud.tsinghua.edu.cn/f/51c075c045c747d4bd24/?dl=1
+outs:
+- md5: 5b3599f0f1d468f23a84571e29f5a4ef
+  size: 298
+  hash: md5
+  path: dataset1.zip
